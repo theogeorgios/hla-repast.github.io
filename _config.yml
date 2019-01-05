@@ -1,0 +1,13 @@
+title: HLA_RePast
+description: Large Scale Distributed Simulation of MAS via HLA
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-architect
+github:
+  is_project_page: true
+  repository_name: HLA-RePast
+  repository_url: https://github.com/HLA-RePast/HLA-RePast
+  zip_url: https://github.com/HLA-RePast/HLA-RePast/zipball/master
+  tar_url: https://github.com/HLA-RePast/HLA-RePast/tarball/master
+  owner_url: https://github.com/theogeorgios
+  owner_name: Georgios Theodoropoulos
