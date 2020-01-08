@@ -16,6 +16,7 @@ A number of people contributed to concepts related to HLA_RePast over the years:
 - Rob Minson (Main Developer)
 - Yi Zhang
 - Mike Lees 
+- Ton Oguara
 
 
 # Publications
