@@ -23,8 +23,8 @@ while also facilitating access to geographically distributed data sets.
 
 As part of the project, HLA_RePast was ported onto Globus Toolkit v3 and experiments were conducted in WAN environments, 
 where different HLA_RePast Federates executed in different countries, including across UK and Singapore. 
-This was the first ever time such a cross-continental HLA infrastructure for MAS simulations was set up 
-and the first time a RePast simulation was partitioned across 2 continents!
+This was the **first ever time such a cross-continental HLA infrastructure for MAS simulations was set up 
+and the first time a RePast simulation was partitioned across 2 continents!**
 
 The project was underpinned by the organisation of two conferences:
 1.	 International Workshop on Distributed Simulation on the Grid, in conjunction with CCGRID 2006, Singapore, 16-19 May 2006 -  [pages  62-69](https://www.computer.org/csdl/proceedings/ccgrid/2006/12OmNyPQ4vJ)
