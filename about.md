@@ -13,10 +13,10 @@ permalink: about/
 ## Team
 A number of people contributed to concepts related to HLA_RePast over the years:
 
-- Rob Minson (Main Developer)
-- Yi Zhang
+- Rob Minson (Main Developer of HLA_RePast)
+- Yi Zhang (on the Grid)
 - Mike Lees 
-- Ton Oguara
+- Ton Oguara 
 
 
 # Publications
