@@ -1,3 +1,9 @@
+---
+layout: default
+title: on the Grid
+permalink: on_the_grid/
+---
+
 
 # HLA_RePast on the Grid
 
