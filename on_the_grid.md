@@ -7,7 +7,7 @@ permalink: on_the_grid/
 
 # HLA_RePast on the Grid
 
-![](/assets/images/hla-repast/esci-logo.png)
+![](/assets/images/hla-repast/esci_logo.png)
 
 In the Spring of 2003, the e-Science Core Programme issued a call for high quality proposals for international projects 
 (referred to as “Sister Projects”) to establish synergistic links between individual UK e-Science projects 
