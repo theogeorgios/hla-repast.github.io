@@ -20,11 +20,12 @@ at different locations, develop, modify, assemble and execute distributed simula
 While HLA enables the construction of large-scale distributed simulations using existing and possibly distributed simulation components, 
 Grid technologies enable collaboration and the use of distributed computing resources, 
 while also facilitating access to geographically distributed data sets. 
+![](/assets/images/hla-repast/esci-logo.png)
 
 As part of the project, HLA_RePast was ported onto Globus Toolkit v3 and experiments were conducted in WAN environments, 
 where different HLA_RePast Federates executed in different countries, including across UK and Singapore. 
-This was the **first ever time such a cross-continental HLA infrastructure for MAS simulations was set up 
-and the first time a RePast simulation was partitioned across 2 continents!**
+This was the **first  time ever such a cross-continental HLA infrastructure for MAS simulations was set up 
+and the first time a RePast simulation was partitioned across 2 continents.**
 
 The project was underpinned by the organisation of two conferences:
 1.	 International Workshop on Distributed Simulation on the Grid, in conjunction with CCGRID 2006, Singapore, 16-19 May 2006 -  [pages  62-69](https://www.computer.org/csdl/proceedings/ccgrid/2006/12OmNyPQ4vJ)
