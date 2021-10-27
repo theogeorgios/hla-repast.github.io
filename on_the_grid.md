@@ -30,7 +30,7 @@ and the first time a RePast simulation was partitioned across 2 continents.**
 
 The project was underpinned by the organisation of two conferences:
 1.	 International Workshop on Distributed Simulation on the Grid, in conjunction with CCGRID 2006, Singapore, 16-19 May 2006 -  [pages  62-69](https://www.computer.org/csdl/proceedings/ccgrid/2006/12OmNyPQ4vJ)
-2.	The Challenges of working with Grids for Simulations, Birds of a Feather Session, [e-Science All Hands Meeting 2006](https://hla-repast.github.io/assets/files/proceedings-AHM2006a.pdf), UK,  20 September 2006.
+2.	[The Challenges of working with Grids for Simulations](https://www.allhands.org.uk/2006/programme/BoFs/simulations.html), Birds of a Feather Session, [e-Science All Hands Meeting 2006](https://hla-repast.github.io/assets/files/proceedings-AHM2006a.pdf), UK,  20 September 2006.
 
 ![](/assets/images/hla-repast/flow.png)
 
