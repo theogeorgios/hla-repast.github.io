@@ -10,9 +10,7 @@ permalink: on_the_grid/
 
 ![](/assets/images/hla-repast/esci_logo.png)
 
-In the Spring of 2003, the e-Science Core Programme issued a call for high quality proposals for international projects 
-(referred to as “Sister Projects”) to establish synergistic links between individual UK e-Science projects 
-and leading Grid/e-Science projects from around the globe. DS-Grid was one of only four such projects that received funding 
+DS-Grid was one of only four international "sister" projects  projects funded by the e-Science Core Programme with the aim to establish synergistic links between individual UK e-Science projects  and leading Grid/e-Science projects from around the globe 
 (e-Science Sister Project [GR/S82862/01](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=GR/S82862/01)). 
 
 The vision of the DS-Grid project was a “Grid plug-and-play distributed simulation system", 
