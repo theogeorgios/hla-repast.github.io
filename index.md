@@ -4,10 +4,10 @@ layout: default
 
 # HLA_RePast
 
-HLA_RePast is a framework and a middleware system that allows the integration, through a High Level Architecture (HLA) federation, 
-of multiple instances of the Java-based lightweight sequential MAS simulation toolkit RePast.  
+HLA_RePast is a framework and a middleware system that allows the integration, through a ]High Level Architecture (HLA](https://standards.ieee.org/ieee/1516/3744/) federation, 
+of multiple instances of the Java-based lightweight sequential MAS simulation toolkit [RePast](https://repast.github.io/).  
 
-HLA_RePast has been the **very first effort to distribute MAS simulation executives in general and RePast in particular with the HLA**, 
+HLA_RePast has been one of the **very first efforts to distribute MAS simulation executives in general and RePast in particular with the HLA**, 
 thus pioneering the topic of HLA-based distributed MAS simulations.  
 
 ![](/assets/images/hla-repast/arch.png)
